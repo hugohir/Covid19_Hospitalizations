@@ -5,7 +5,8 @@ It contains Covid-19 patient information gathered during the triage process.
 Target: Predict if the patient should be admitted to the ICU.
 The dataset can be found at https://www.kaggle.com/datasets/S%C3%ADrio-Libanes/covid19
 
-![Alt text](https://i.imgur.com/n1iJ1N7.jpg')
+![](https://i.imgur.com/hgYXV46.jpg)
+AI Generated Image
 
 ## Background
 
