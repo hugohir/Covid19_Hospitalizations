@@ -4,7 +4,7 @@ We used the dataset compiled by the Hospital Sirio-Libanes in Sao Paulo, Brazil 
 It contains Covid-19 patient information gathered during the triage process.
 Target: Predict if the patient should be admitted to the ICU.
 
-![](https://i.imgur.com/hgYXV46.jpg)
+![](https://i.imgur.com/n1iJ1N7.jpg)
 AI Generated Image
 
 ## Background
