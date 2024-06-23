@@ -17,13 +17,11 @@ How can we determine if COVID-19-positive patients should be admitted to the Int
 
 We will use data obtained during Triage and Laboratory tests made on COVID-19 patients to predict admission to the hospital should be required.
 
-## Problem Definition
-
 COVID-19 symptoms can quickly escalate from mild symptoms to severe. Most COVID-19-positive patients first had influenza-like symptoms. But many of those patients ended up in the ICU in a fight to survive.
 
-The objective is to predict if a COVID-19 patient should be admitted to the hospital or treated at home. If a patient is likely to end up in the ICU, he/she should be admitted to the hospital and not allowed to go home.
-
 ## Objective
+
+The objective is to predict if a COVID-19 patient should be admitted to the hospital or treated at home. If a patient is likely to end up in the ICU, he/she should be admitted to the hospital and not allowed to go home.
 
 Classify patients into 2 classes: ICU and no-ICU. Provide insights.
 
