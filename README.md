@@ -23,7 +23,7 @@ COVID-19 symptoms can quickly escalate from mild symptoms to severe. Most COVID-
 
 The objective is to predict if a COVID-19 patient should be admitted to the ICU or treated at home. If a patient is likely to end up in the ICU, he/she should be admitted to the hospital and not allowed to go home. This may contribute to reducing the lethality of the virus.
 
-Classify patients into 2 classes: ICU and no-ICU. Provide insights.
+Classify patients into 2 classes: ICU and no-ICU. Provide insights. We will use Principal Component Analysis (PCA), Support Vector Machine (SVM), and Multiple Linear Regression (MLR).
 
 ## Dataset
 
